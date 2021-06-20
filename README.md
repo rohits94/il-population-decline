@@ -1,5 +1,5 @@
 # il-population-decline
-Using NLP on news articles to understand population decline in Illinois/Chicago.
+
 
 
 In this project, I worked with a corpus of news articles (over 400K) . The articles are related to either the city of Chicago, the state of Illinois, or both.
